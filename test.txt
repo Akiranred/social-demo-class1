@@ -2,4 +2,6 @@ This is a new file
 No code
 This is a 3rd line of code
 This is a stash code
-This will create a conflict
+This is a 4th line of code
+Followed by 5th line
+
